@@ -5,6 +5,7 @@
 A Website System where it can manage Tourist, Preview Tour Package Promotions, Previewing of Tourist Spots, and manages Tourist Scheduling. 
 
 ## 👤 User Features (Tourists/Visitors)
+These are the features available on the public-facing side:
 
 - Homepage
 - Schedule Booking
@@ -15,6 +16,7 @@ A Website System where it can manage Tourist, Preview Tour Package Promotions, P
 - User Account
 
 ## 🧑‍💼 Admin Features
+Accessible only by administrators via a secure login:
 
 - Dashboard
 - Schedule Management
@@ -23,6 +25,7 @@ A Website System where it can manage Tourist, Preview Tour Package Promotions, P
 - Staff Management
 
 ## 👨‍🔧 Staff Features
+Designed for local tourism staff or facilitators:
 
 - Assigned Schedules
 - Communication Panel
